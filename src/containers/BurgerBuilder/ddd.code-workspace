@@ -1,0 +1,144 @@
+{
+  "folders": [
+	{
+		"name": "1_Klasna PAmetna Komponeneta",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\1_Klasna PAmetna Komponeneta"
+	},
+	{
+		"name": "3",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\3"
+	},
+	{
+		"name": "zadaca_1",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\zadaca_1"
+	},
+	{
+		"name": "4_module_liste",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\4_module_liste"
+	},
+	{
+		"name": "4module_vjezba_by_anes",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\4module_vjezba_by_anes"
+	},
+	{
+		"name": "zadaca_2_module4_liste",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\zadaca_2_module4_liste"
+	},
+	{
+		"name": "5_StylingCompsAndElemnts",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\5_StylingCompsAndElemnts"
+	},
+	{
+		"name": "diving Deper Into Comps",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\diving Deper Into Comps"
+	},
+	{
+		"name": "hambas-kreator",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\hambas-kreator"
+	},
+	{
+		"name": "http--01-starting-setup",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\HTTP REST\\http--01-starting-setup"
+	},
+	{
+		"name": "routing--assignment-problem",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\routing--assignment-problem"
+	},
+	{
+		"name": "Solution-routing--assignment-problem",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\Solution-routing--assignment-problem"
+	},
+	{
+		"name": "redux--01-start",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\redux--01-start"
+	},
+	{
+		"name": "redux--assignment-2-problem",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\redux--assignment-2-problem"
+	},
+	{
+		"name": "Task2",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\Task2"
+	},
+	{
+		"name": "Task2",
+		"path": "..\\..\\..\\..\\..\\Task2"
+	},
+	{
+		"name": "AntColonyWeb_2019-master",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\AntColonyWeb_2019-master"
+	},
+	{
+		"name": "JS-basics",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\JS-basics"
+	},
+	{
+		"name": "React-simple-Crud",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\React-simple-Crud"
+	},
+	{
+		"name": "ReactOsnovnaSkola",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\ReactOsnovnaSkola"
+	},
+	{
+		"name": "tools",
+		"path": "..\\..\\..\\..\\..\\03\\demos\\before\\tools"
+	},
+	{
+		"name": "ps-flux",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\ps-flux"
+	},
+	{
+		"name": "api",
+		"path": "..\\..\\..\\..\\..\\03\\demos\\before\\src\\api"
+	},
+	{
+		"name": "CourseForm",
+		"path": "..\\..\\..\\..\\..\\burekVideos\\CourseForm"
+	},
+	{
+		"name": "react-basic-crud2",
+		"path": "..\\..\\..\\..\\..\\..\\..\\..\\React_kodovi\\react-basic-crud2"
+	},
+	{
+		"name": "javascript-opc",
+		"path": "..\\..\\..\\..\\..\\pluralsight\\JS\\1 JS objects, protypes and classes\\javascript-opc"
+	},
+	{
+		"name": "JAvAScript Fundamentals",
+		"path": "..\\..\\..\\..\\..\\pluralsight\\JS\\3 JS fundamentals MArk Zamoyta\\JAvAScript Fundamentals"
+	},
+	{
+		"name": "tools",
+		"path": "..\\..\\..\\..\\..\\CoryMaterMuJBM\\after\\tools"
+	},
+	{
+		"name": "react-test",
+		"path": "..\\..\\..\\..\\..\\pluralsight\\React\\React-Redux Cory House\\React-Redux-Cory\\react-test"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\pluralsight\\React\\React-Redux Cory House\\EXERCISE fILES ne BRISI\\after"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\pluralsight\\React\\React-Redux Cory House\\EXERCISE fILES ne BRISI\\Before11"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\pluralsight\\React\\react-redux-anes"
+	},
+	{
+		"path": "..\\..\\.."
+	},
+	{
+		"path": "..\\..\\..\\..\\hooks-01-starting-project"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\probaReduxSagaNovi\\Hamburger-Maker_Redux_Saga-master"
+	},
+	{
+		"path": "..\\..\\..\\..\\FavouritesReduxProject\\replace-redux-01-starting-project"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "hambas-kreator"
+  }
+}
